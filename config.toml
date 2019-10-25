@@ -1,0 +1,9 @@
+baseurl = "http://example.org"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+
+[params]
+brand = "HOME"
+description = "Catatan Kecil Harianku"
+bgimg = "img/ignasi_pattern_s.png"
